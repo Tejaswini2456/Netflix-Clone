@@ -1,4 +1,4 @@
-export const API_END_POINT = "https://dashboard.render.com/web/srv-cqcduduehbks738e08og/deploys/dep-cqcdue6ehbks738e0900";
+export const API_END_POINT = "https://netflix-clone-backend-dz3g.onrender.com";
 
 export const options = {
     method: 'GET',
@@ -10,7 +10,7 @@ export const options = {
 export const Now_Playing_Movie = "https://api.themoviedb.org/3/movie/now_playing";
 export const Popular_Movie = "https://api.themoviedb.org/3/movie/popular";
 export const Top_Rated_Movie = "https://api.themoviedb.org/3/movie/top_rated";
-export const Upcoming_Movie = "https://api.themoviedb.org/3/movie/upcoming";
+export const Upcoming_Movie = "https://api.themoviedb.org/3/movie/upcoming";https://netflix-clone-backend-dz3g.onrender.com
 
 export const  SEARCH_MOVIE_URL="https://api.themoviedb.org/3/search/movie?query=";
 
