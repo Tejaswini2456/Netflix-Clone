@@ -1,4 +1,4 @@
-export const API_END_POINT = "http://localhost:8080/api/v1/user";
+export const API_END_POINT = "https://dashboard.render.com/web/srv-cqcduduehbks738e08og/deploys/dep-cqcdue6ehbks738e0900";
 
 export const options = {
     method: 'GET',
